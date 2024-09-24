@@ -1,13 +1,13 @@
 <h1>Creating a Neural Network that can drive a car (autonomous car simulation)</h1>
 
-Team Members:
+<h3>Team Members:</h3>
 Erim Keresteci
 
 Summary:
 The aim of this project is to understand the basics of the technology behind self driving cars. 
 There isn’t exactly an audience for this project other than the people working on it. It’s moreso about the motivation behind this project which lies in my will to understand how things work. As the world slowly and inevitably transitions into an age of automation, I want make sure I don’t take for granted the technology around me and ensure I understand what’s actually happening behind the scenes. 
 
-Resources:
+<h3>Resources:</h3>
 This project would use Python as the primary programming language, however it’s possible it could end up being C# depending on the simulation environment I decide to use. I have not yet researched the optimal software/library to make the visual simulation of the autonomous car on, but Unity is a possibility if I go down the C# route. API’s that will be helpful include TensorFlow, keras, NumPy, and Pandas. There will definitely be more that are used however that depends on my research regarding the method of simulation. 
 
 Useful articles:
@@ -16,7 +16,7 @@ https://medium.com/asap-report/training-a-neural-network-for-driving-an-autonomo
 
 Products that I might want to purchase include an RC car of some sort along with sensors incase I want to simulate this in real life. A possible RC car to use would be the Nvidia JetBot https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetbot-ai-robot-kit/
 
-Tasks:
+<h3>Tasks:</h3>
 Research how self driving cars work
 Research the ideal programming language and simulation tool to conduct this project
 Configure programming environment
@@ -54,21 +54,21 @@ Fix errors
 See how it performs on various tracks 
 Try and train the virtual simulation and then upload the model to the jetbot to see if it can replicate the movement in an identical real-life version
 
-Additional Notes:
+<h3>Additional Notes:</h3>
 None
 
 
 
 <h1>Identity Recognition System</h1>
 
-Team Members:
+<h3>Team Members:</h3>
 Erim Keresteci
 
-Summary:
+<h3>Summary:</h3>
 The aim of this project is to create software that can detect peoples’ voices and faces using machine learning. 
 The audience for this project would be the people working on it, however the later stages of this project (possibly in another sprint) would be for other people who would test the program (malware). The motivation behind this project is to learn how to use machine learning with video and audio data and extract specific information from that data (i.e. a name). The long term goal with this project, stretching into other sprints, would be to create a malware that can collect data about a subject. 
 
-Resources:
+<h3>Resources:</h3>
 This project would use Python as the primary programming language. Libraries that would be useful include keras, TensorFlow, Pandas, NumPy, OpenCV, and an audio-processing library. There could very well be more libraries used, however for now this is what I can foresee. I can’t write a lot on the resources matter because this kind of project is very new to me, so I’m not sure what else I might need.  
 
 Helpful articles:
@@ -79,7 +79,7 @@ https://www.simplilearn.com/tutorials/python-tutorial/speech-recognition-in-pyth
 
 There are no products I would like to purchase as of now. 
 
-Tasks:
+<h3>Tasks:</h3>
 Research how facial recognition works
 Work with OpenCV to create a video feed that receives input from webcam
 Create a machine learning model that can detect a face on the video feed
@@ -121,24 +121,24 @@ Continue step 37
 Continue step 37
 Test + bug fixes 
 
-Additional Notes:
+<h3>Additional Notes:</h3>
 The follow-up project to this is a little unethical due to its potential uses so I am limiting myself to just the functionality portion and not doing anything malware related for now. 
 
 
 
 <h1>Creating documentation/materials for a Dalton ML Class</h1>
 
-Team Members:
+<h3>Team Members:</h3>
 Erim Keresteci
 
-Summary:
+<h3>Summary:</h3>
 The aim of this project is to design resources for a potential Dalton course regarding machine learning. 
 The audience for this project would be strong CS students at Dalton who are interested in AI and machine learning. In this course they would understand the theory behind machine learning (not necessarily the math as that is beyond what the Dalton ‘2A’ math curriculum teaches) as well as how to create neural networks, what each component of a neural network does, and the different kinds of machine learning. 
 
-Resources:
+<h3>Resources:</h3>
 This project would use Python as the primary programming language and github to hold all the documentation and resourced needed for the course. All external websites would also be included in this github. API’s that would definitely be used include keras, TensorFlow, Pandas, NumPy. However, based on the depth to which the resources go, this list may grow. With regard to books and articles that are relevant to this project, I would include any GeeksForGeeks page as well as the TensorFlow and keras official tutorials, however with this project being aimed at creating class resources and documentation, I would limit what I take from outside. There are no products I would like to purchase as of now. 
 
-Tasks:
+<h3>Tasks:</h3>
 Create and configure github repo to hold all of the resources
 Do research to determine exactly what to include in this documentation
 Continue step 2
@@ -166,7 +166,7 @@ Continue step 22
 Continue step 22
 Work with Dalton CS dept and high school office to make a course available on ML with this github repo serving as the curriculum and resources for the class.
 
-Additional Notes:
+<h3>Additional Notes:</h3>
 I feel it is important that those who are interested in ML have time to learn it in high school without it being done on their own time for no credit. 
 
 
