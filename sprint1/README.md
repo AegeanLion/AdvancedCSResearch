@@ -1,4 +1,4 @@
-Creating a Neural Network that can drive a car (autonomous car simulation)
+<h5>Creating a Neural Network that can drive a car (autonomous car simulation)</h5>
 
 Team Members:
 Erim Keresteci
