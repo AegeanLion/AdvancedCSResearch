@@ -1,4 +1,4 @@
-<h5>Creating a Neural Network that can drive a car (autonomous car simulation)</h5>
+<h1>Creating a Neural Network that can drive a car (autonomous car simulation)</h1>
 
 Team Members:
 Erim Keresteci
@@ -59,7 +59,7 @@ None
 
 
 
-Identity Recognition System
+<h1>Identity Recognition System</h1>
 
 Team Members:
 Erim Keresteci
@@ -126,7 +126,7 @@ The follow-up project to this is a little unethical due to its potential uses so
 
 
 
-Creating documentation/materials for a Dalton ML Class
+<h1>Creating documentation/materials for a Dalton ML Class</h1>
 
 Team Members:
 Erim Keresteci
