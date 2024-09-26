@@ -62,7 +62,7 @@ None
 <h1>Identity Recognition System</h1>
 
 <h3>Team Members:</h3>
-Erim Keresteci
+Erim Keresteci, Jaanvi Chirimar (maybe)
 
 <h3>Summary:</h3>
 The aim of this project is to create software that can detect peoples’ voices and faces using machine learning. 
